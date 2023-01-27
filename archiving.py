@@ -1,5 +1,5 @@
 '''
-Developed by: Pranjal Ghildiyal and Hardik Seth.
+Developed by: Pranjal Ghildiyal.
 Date created: 12/29/2022
 
 '''
